@@ -21,3 +21,7 @@ dim(data2)
 # 3. Run regression!
 ranksize<-lm(lnrank~lnsize,data=data2)
 summary(ranksize)
+
+# 4. Plot
+plot(data2$lnsize,data2$lnrank,pch=20, ylab="Log Rank",xlab="Log Size")
+abline(ranksize,lwd=1.5,col="dark gray")
