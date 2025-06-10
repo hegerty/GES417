@@ -2,6 +2,7 @@
 Miscellaneous course files for GES 317/417, Summer 2025, NEIU
 
 Week 1: Intro and Urban Theory
+
 Week 2: GIS Principles and Research Project Prep
 Week 3: GIS Principles and Urban Land Values; Geocoding
 Week 4: Urban Growth and Change; Density Gradient
