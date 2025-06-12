@@ -1,5 +1,5 @@
 # GES 317/417: Urban Information Systems
-Miscellaneous course files for GES 317/417, Summer 2025, NEIU
+Lecture slides, geographic data, and miscellaneous course files for GES 317/417, Summer 2025, NEIU
 
 **Week 1:** Intro and Urban Theory
 
