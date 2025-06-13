@@ -18,11 +18,11 @@ sd1<-sd(data$POPDENS)
 print(c(m1,sd1))
 
 #### PLOT with miles from CBD as x-axis, Density on y-axis 
-plot(data$NEAR_DIST/5280,data$POPDENS,pch=20,ylab="Pop. Density",xlab=c("Distance (Miles)"),ylim=c(0,15500))
+plot(data$NEAR_DIST/3280.84,data$POPDENS,pch=20,ylab="Pop. Density",xlab=c("Distance (km)"),ylim=c(0,15500))
 
 #Perform linear regression
 y<-data$POPDENS
-x<-data$NEAR_DIST/5280
+x<-data$NEAR_DIST/3280.84 # KM
 reg1<-lm(y~x)
 summary(reg1) # Are the coefficients significant?
 
@@ -44,8 +44,8 @@ plot(x,yfit2,ylim=c(0,15500),col="grey",pch=20,ylab="",xlab="")
 data2<-data[data$CHITRACT==1,]
 m2<-mean(data2$POPDENS)
 sd2<-sd(data2$POPDENS)
-plot(data2$NEAR_DIST/5280,data2$POPDENS,pch=20,ylab="Pop. Density",xlab=c("Distance (Miles)"))
-x2<-data2$NEAR_DIST/5280
+plot(data2$NEAR_DIST/3280.84,data2$POPDENS,pch=20,ylab="Pop. Density",xlab=c("Distance (Km)"))
+x2<-data2$NEAR_DIST/3280.84
 y2<-data2$POPDENS
 reg3<-lm(y2~x2)
 summary(reg3)
@@ -55,3 +55,4 @@ abline(reg3,lwd=3,col="dark grey")
 # Chicago's Density gradient is linear
 reg4<-lm(y2~x2+I(x2*x2))
 summary(reg4)
+
