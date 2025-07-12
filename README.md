@@ -1,7 +1,7 @@
 # GES 317/417: Urban Information Systems
 Lecture slides, geographic data, and miscellaneous course files for GES 317/417, Summer 2025, NEIU
 
-**Week 1:** Intro [Slides](https://github.com/hegerty/GES417/blob/main/GES_317-417_Wk1.pptx) and Urban Theory [Slides](https://github.com/hegerty/GES417/blob/main/GES317-417_Urban%20Theory.pptx)
+**Week 1:** Intro ([Slides])(https://github.com/hegerty/GES417/blob/main/GES_317-417_Wk1.pptx) and Urban Theory [Slides](https://github.com/hegerty/GES417/blob/main/GES317-417_Urban%20Theory.pptx)
 
 **Week 2:** GIS Principles [Slides](https://github.com/hegerty/GES417/blob/main/GES_317-417_Wk2.pptx) and Research Project Prep [Slides](https://github.com/hegerty/GES417/blob/main/GES%20317-417_ResearchOrganization.pptx)
 
