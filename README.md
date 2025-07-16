@@ -1,7 +1,7 @@
 # GES 317/417: Urban Information Systems
 Lecture slides, geographic data, and miscellaneous course files for GES 317 (Undergraduate)/GES 417 (Graduate), last taught during Summer 2025 at NEIU.
 
-[Here](https://docs.google.com/document/d/12JDeiPvDEBIl3JGDc4Z2KJKOGlbwG7Y8srNHfxubFFk/edit?usp=sharing) is a list of lecture topics and assigned readings, and a description of the weekly in-class exercises. It will be finalized in August 2025. 
+Here is a list of [lecture topics and assigned readings](https://docs.google.com/document/d/12JDeiPvDEBIl3JGDc4Z2KJKOGlbwG7Y8srNHfxubFFk/edit?usp=sharing), and a description of the weekly in-class exercises. It will be finalized in August 2025. 
 
 **Week 1:** Intro [(Slides)](https://github.com/hegerty/GES417/blob/main/GES_317-417_Wk1.pptx); Urban Theory [(Slides)](https://github.com/hegerty/GES417/blob/main/GES317-417_Urban%20Theory.pptx)
 
